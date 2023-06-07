@@ -6,4 +6,4 @@ The license is MIT, so do with it, whatever you want to do.
 Perhaps another folder with c64 prg next time.
 
 happy hacking, 
-korshun 
+korshun --
